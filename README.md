@@ -1,3 +1,3 @@
-# activity_ni_grant
+# Simple Mobile Applicaiton in Flutter
 
-A new Flutter project.
+Showcases different flutter properties to highlight personal information
